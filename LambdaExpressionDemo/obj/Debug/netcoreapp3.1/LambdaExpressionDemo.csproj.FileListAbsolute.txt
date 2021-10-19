@@ -1,0 +1,14 @@
+E:\ASP.NET\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.exe
+E:\ASP.NET\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.deps.json
+E:\ASP.NET\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.json
+E:\ASP.NET\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.dev.json
+E:\ASP.NET\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+E:\ASP.NET\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+E:\ASP.NET\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.AssemblyReference.cache
+E:\ASP.NET\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfoInputs.cache
+E:\ASP.NET\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfo.cs
+E:\ASP.NET\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.CoreCompileInputs.cache
+E:\ASP.NET\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+E:\ASP.NET\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+E:\ASP.NET\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.genruntimeconfig.cache
